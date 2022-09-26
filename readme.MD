@@ -11,6 +11,7 @@ This application is based on sockets library.  Chat allows you to comunicate bet
 
 ### Usage 
 It's quite simple to use this application. At first you need to configurate app. In existing code both in server.py and client.py enter IP adress and port number. By default server IP: 127.0.0.1, Port: 8080 . If you are OK about default values it's not nessesary to configure it.
+
 ![My Image](images/Server_configuration.PNG)
 
 When configuration is done. Just start client.py or server.py After starting client.py you need to provide user name:
