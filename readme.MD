@@ -6,8 +6,11 @@ To get this app just cimple copy this link below into your terminal.
 git clone git@github.com:Alg1mantas/Chat_application.git
 ```
 
-### About
-This application is based on sockets library.  Chat allows you to communicate between server and multiple clients to each other. Well I've only tested it on localhost, but in future I will test it on multiple different computers . And I will also add some extra features like end-to-end encryption, login etc. It's one of my first and most favourite project , so some bugs may appear. If you notice any bug or how I suppose to improve this code please contact me.
+### Project description
+This application is built using the sockets library, enabling communication between a server and multiple clients. Currently, it has been tested primarily on localhost, with plans for future testing across multiple computers. Additionally, I am committed to enhancing the application by incorporating extra features such as end-to-end encryption and login functionality.
+
+### Project Overview
+As one of my first and most cherished projects, I am continuously refining its functionality and usability. While some bugs may be present due to its developmental nature, I encourage feedback from users to identify areas for improvement. Your insights and suggestions are invaluable in shaping the evolution of this project.
 
 ### Usage 
 It's quite simple to use this application. At first you need to configurate app. In existing code both in server.py and client.py enter IP adress and port number. By default server IP: 127.0.0.1, Port: 8080 . If you are OK about default values it's not nessesary to configure it.
